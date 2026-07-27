@@ -1,0 +1,7 @@
+tmp/
+.pdf-review/
+.site-patches/
+.tokiez-edit/
+_capture_review/
+.DS_Store
+Thumbs.db
