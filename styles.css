@@ -111,7 +111,6 @@ button { font: inherit; }
 .experience { overflow: hidden; }
 .experience-head { display: grid; grid-template-columns: 1fr .9fr; gap: 140px; align-items: end; }
 .experience-head > div:last-child > p:first-child { margin: 0; color: #465467; font-size: 17px; line-height: 1.85; word-break: keep-all; }
-.experience-caption { margin: 18px 0 0; color: #8993a2; font-size: 11px; line-height: 1.7; }
 .stats { display: grid; grid-template-columns: repeat(2, 1fr); margin: 90px 0 86px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .stats > div { padding: 38px 28px; border-right: 1px solid var(--line); }
 .stats > div:first-child { padding-left: 0; }
