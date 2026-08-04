@@ -11,6 +11,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://tokisystems.io/apps/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://tokisystems.io/apps/easy-lunar-calendar/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
